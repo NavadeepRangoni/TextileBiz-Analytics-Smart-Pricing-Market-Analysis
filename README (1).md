@@ -129,9 +129,9 @@ This will render the **dashboard.html** template with a button linking to the **
 ---
 
 ## 📬 Contact & Support  
-**Developed by:** Saideep Rangoni  
-- **Email:** saideeprangoni634@gmail.com  
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/saideep-rangoni-54abb9300/)  
+**Developed by:** Navadeep Rangoni  
+- **Email:** rangoninavadeep@gmail.com
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/navadeep-rangoni-b647382b0/)  
 
 ---
 
